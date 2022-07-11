@@ -1,4 +1,4 @@
-##How to Read,Write File to /from storage in android 11+ and below
+## How to Read,Write File to /from storage in android 11+ and below
 In this repo, I am going to show how to get Storage Permission In adnroid 11 and above version
 ### Note: Add these lines of code in AndroidManifest.xml
 ```java
